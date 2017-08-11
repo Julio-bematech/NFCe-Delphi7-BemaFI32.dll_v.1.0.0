@@ -34,6 +34,8 @@ Este aplicativo pode ser utilizado por qualquer pessoa para fins de homologaçã
 
 ## Suporte
 > Chat Online - [Portal de Desenvolvedores](http://bematechpartners.com.br/)
+
 > Atendimento ao desenvlvedor - 0800-6447277
+
 > (http://bematechpartners.com.br/)
 
